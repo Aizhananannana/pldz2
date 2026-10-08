@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Taskq {
+public class Takq {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
